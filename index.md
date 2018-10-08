@@ -1,5 +1,5 @@
 ---
-title: DOMŮ
+title: Domů
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Washington News
@@ -27,6 +27,5 @@ menu:
   navigation:
     identifier: _index
     weight: 1
-    title: Domů
 
 ---
