@@ -18,10 +18,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Washington News
 
-  Ora et Labora
+  Zjisti co se děje v Lifestanu
 hero_button:
   text: Zjistit více
   href: "/about"
