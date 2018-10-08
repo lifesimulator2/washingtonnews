@@ -4,9 +4,6 @@ banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Belkirk College
 partners:
-- "/uploads/2018/10/08/icon-left-font-monochrome-black-1.png"
-- "/uploads/2018/10/08/icon-left-font-monochrome-black.png"
-- "/uploads/2018/10/08/oow (1).png"
 - "/uploads/2018/10/08/Webp.net-resizeimage.jpg"
 services:
 - description: Performing collaborative research and providing services to support
