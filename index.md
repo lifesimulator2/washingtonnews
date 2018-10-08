@@ -3,8 +3,7 @@ title: DOMŮ
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
 heading: Washington News
-partners:
-- "/uploads/2018/10/08/Webp.net-resizeimage.jpg"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
