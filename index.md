@@ -2,7 +2,7 @@
 title: DOMŮ
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Washington News
 partners:
 - "/uploads/2018/10/08/Webp.net-resizeimage.jpg"
 services:
@@ -14,7 +14,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Zjisti co se děje v Lifestanu
 textline: |-
   Washington News
 
